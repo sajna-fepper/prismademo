@@ -19,6 +19,8 @@ exports.signup = async(req, res, next) => {
                 name,
                 email,
                 password
+
+                
             }
         })
       
